@@ -1,0 +1,54 @@
+body{
+    background-color: yellow;
+}
+button{
+    padding: -5px;
+    margin: 5px;
+    font-size: 26px;
+    background-color: orchid;
+    border-radius: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+nav{
+    text-align: center;
+    padding: -10px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 100px;
+    background-color: black;
+
+}
+.hero{}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 55px;
+    font-weight: bolder;
+}
+h6{
+    text-align: center;
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    margin-right: 30px;
+    padding-right: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+}
+table,th,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.sect{
+    display:grid;
+    grid-template-columns: auto auto;
+    height: 50px;
+    width: 50px;
+}
